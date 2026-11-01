@@ -1,7 +1,7 @@
-{
-  "name": "AFCBrowser",
-  "version": "4.5.1",
-  "releaseDate": "2026-11-01",
-  "downloadUrl": "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v4.5.0/AFCBrowser-Setup.exe",
-  "changelog": "Pastel Chromium turbo optimizasyonu, otomatik tarayıcı senkronizasyonu, ulaşılamayan site hata ekranı ve GitHub otomatik güncelleme motoru."
+﻿{
+    "name":  "AFCBrowser",
+    "version":  "4.5.1",
+    "releaseDate":  "2026-11-01",
+    "downloadUrl":  "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v4.5.1/AFCBrowser-Setup.exe",
+    "changelog":  "Pastel Chromium turbo optimizasyonu, otomatik tarayÄ±cÄ± senkronizasyonu, ulaÅŸÄ±lamayan site hata ekranÄ± ve GitHub otomatik gÃ¼ncelleme motoru."
 }
