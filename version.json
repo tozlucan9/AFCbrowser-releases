@@ -1,7 +1,7 @@
 {
     "name":  "AFCBrowser",
-    "version":  "5.0.2",
+    "version":  "5.0.3",
     "releaseDate":  "2026-11-09",
-    "downloadUrl":  "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v5.0.2/AFCBrowser-Setup.exe",
-    "changelog":  "v5.0.2: Electron 45.2.3 ile Chromium ve uzantÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± API uyumluluÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸u gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncellendi. UzantÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dosyalarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Electron yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼kleyemese bile kaydedilir ve sonraki aÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ta tekrar denenir; hata nedeni arayÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼zde gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶sterilir."
+    "downloadUrl":  "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v5.0.3/AFCBrowser-Setup.exe",
+    "changelog":  "v5.0.3: UzantÄ± popup ve ayar pencereleri uzantÄ±nÄ±n yÃ¼klÃ¼ olduÄŸu oturumda aÃ§Ä±lÄ±r; aÃ§Ä±lamama nedeni gÃ¶sterilir. EasyList alan adÄ± filtresi Ã¶nbelleÄŸi eklendi, video reklamlarÄ±nda oynatma/atlama mÃ¼dahalesi kaldÄ±rÄ±ldÄ±. KaldÄ±rÄ±cÄ± Roamingafcbrowser profilini daha uzun sÃ¼re deneyerek temizler. Chrome Web MaÄŸazasÄ± iÃ§in tutarlÄ± Chrome istemci ipuÃ§larÄ± gÃ¶nderilir."
 }
