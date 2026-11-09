@@ -3,5 +3,5 @@
     "version":  "5.0.2",
     "releaseDate":  "2026-11-09",
     "downloadUrl":  "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v5.0.2/AFCBrowser-Setup.exe",
-    "changelog":  "v5.0.2: Electron 45.2.3 ile Chromium ve uzantÃƒâ€Ã‚Â± API uyumluluÃƒâ€Ã…Â¸u gÃƒÆ’Ã‚Â¼ncellendi. UzantÃƒâ€Ã‚Â± dosyalarÃƒâ€Ã‚Â± Electron yÃƒÆ’Ã‚Â¼kleyemese bile kaydedilir ve sonraki aÃƒÆ’Ã‚Â§Ãƒâ€Ã‚Â±lÃƒâ€Ã‚Â±Ãƒâ€¦Ã…Â¸ta tekrar denenir; hata nedeni arayÃƒÆ’Ã‚Â¼zde gÃƒÆ’Ã‚Â¶sterilir."
+    "changelog":  "v5.0.2: Electron 45.2.3 ile Chromium ve uzantÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± API uyumluluÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸u gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncellendi. UzantÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dosyalarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Electron yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼kleyemese bile kaydedilir ve sonraki aÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ta tekrar denenir; hata nedeni arayÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼zde gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶sterilir."
 }
