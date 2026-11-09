@@ -1,7 +1,7 @@
 {
     "name":  "AFCBrowser",
-    "version":  "5.0.1",
-    "releaseDate":  "2026-11-08",
-    "downloadUrl":  "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v5.0.1/AFCBrowser-Setup.exe",
-    "changelog":  "v5.0.1: YouTube reklamlarÄ±nda videoyu sona atlama dÃ¼zeltildi; iÃ§erik akÄ±ÅŸÄ±na dokunulmadan yalnÄ±zca gÃ¶rÃ¼nÃ¼r atla dÃ¼ÄŸmesi kullanÄ±lÄ±r.\nKaldÄ±rma sÄ±rasÄ±nda aÃ§Ä±k AFCBrowser sÃ¼reÃ§leri kapatÄ±lÄ±r ve kurulum/profil dosyalarÄ± temizlenir.\nChrome Web MaÄŸazasÄ± sayfasÄ±na sahte Chrome API enjeksiyonlarÄ± kaldÄ±rÄ±ldÄ±."
+    "version":  "5.0.2",
+    "releaseDate":  "2026-11-09",
+    "downloadUrl":  "https://github.com/tozlucan9/afcbrowser-releases/releases/download/v5.0.2/AFCBrowser-Setup.exe",
+    "changelog":  "v5.0.2: Electron 45.2.3 ile Chromium ve uzantÃƒâ€Ã‚Â± API uyumluluÃƒâ€Ã…Â¸u gÃƒÆ’Ã‚Â¼ncellendi. UzantÃƒâ€Ã‚Â± dosyalarÃƒâ€Ã‚Â± Electron yÃƒÆ’Ã‚Â¼kleyemese bile kaydedilir ve sonraki aÃƒÆ’Ã‚Â§Ãƒâ€Ã‚Â±lÃƒâ€Ã‚Â±Ãƒâ€¦Ã…Â¸ta tekrar denenir; hata nedeni arayÃƒÆ’Ã‚Â¼zde gÃƒÆ’Ã‚Â¶sterilir."
 }
